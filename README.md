@@ -2,6 +2,7 @@
 <html>
   <body>
     <h1>Exemplos de testes A/B</h1>
+    <a href="https://colab.research.google.com/drive/12HfxQlfl8NJSYADPWPHoKykXrgW0sjSN?usp=sharing">Notebook Aqui</a></p>
     <p>Os testes A/B são uma técnica de experimentação utilizada para comparar duas versões de um produto ou recurso para ver qual é mais eficaz. Aqui estão alguns exemplos de aplicações de testes A/B:</p>
     <ul>
       <li>Design de página: comparar duas versões de um design de página web para ver qual é mais eficaz em atrair cliques ou conversões.</li>
